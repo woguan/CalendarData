@@ -1,31 +1,38 @@
 {
-  "year": {
-  
-    "2017": {
-      "month": {
-        
-        "january": {
-          "day": {
-            "19":"Midterm for MGT"
-          }
-        } , 
-        
-        "february": {
-          "day": {
-          }},
-          
-        "march": {
-          "day": {
-          }},
-          
-        "april": {
-          "day": {
-          }},
-          
-        "may": {
-          "day": {
-      }}
-  }
-  }
-}
+  "data": [
+    {
+     "year": 2017,
+     "info": [
+       {
+         "month": "January",
+         "day": "17",
+         "description": "I have to go Jan 17"
+       },
+       {
+         "month": "January",
+         "day": "19",
+         "description": "I have to go Jan 19"
+         
+       },{
+         
+         "month": "January",
+         "day": "17",
+         "description": "I have to go Jan 17[2]"
+       },
+       {
+         
+         "month": "February",
+         "day": "2",
+         "description": "February 2nd, go somewhere"
+       },
+       {
+         
+         "month": "February",
+         "day": "17",
+         "description": "I have to go Feb 17"
+       }
+       ]
+    
+    }
+]
 }
