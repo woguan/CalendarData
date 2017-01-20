@@ -2,37 +2,37 @@
   "data": [
     {
      "year": 2017,
-     "info": [
-       {
-         "month": "January",
-         "day": "17",
-         "description": "I have to go Jan 17"
-       },
-       {
-         "month": "January",
-         "day": "19",
-         "description": "I have to go Jan 19"
-         
-       },{
-         
-         "month": "January",
-         "day": "17",
-         "description": "I have to go Jan 17[2]"
-       },
-       {
-         
-         "month": "February",
-         "day": "2",
-         "description": "February 2nd, go somewhere"
-       },
-       {
-         
-         "month": "February",
-         "day": "17",
-         "description": "I have to go Feb 17"
-       }
-       ]
+     "month": "January",
+     "day": "17",
+     "todoList": ["I have to go Jan 17", "other stuff to go on Jan 17", "It's Jan 17"]
+    },
     
+    {
+     "year": 2017,
+     "month": "January",
+     "day": "19",
+     "todoList": ["I have to go Jan 19", "other stuff to go on Jan 19"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "January",
+     "day": "23",
+     "todoList": ["I have to go Jan 23", "other stuff to go on Jan 23"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "February",
+     "day": "19",
+     "todoList": ["I have to go Feb 19", "other stuff to go on Feb 19"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "February",
+     "day": "29",
+     "todoList": ["I have to go Feb 29", "other stuff to go on Feb 29"]
     }
 ]
 }
