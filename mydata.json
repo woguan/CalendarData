@@ -24,6 +24,13 @@
     {
      "year": 2017,
      "month": "January",
+     "day": 29,
+     "todoList": ["ENG 100D HW on TED"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "January",
      "day": 31,
      "todoList": ["Presentation for HIEA 153"]
     },
@@ -38,10 +45,37 @@
     {
      "year": 2017,
      "month": "February",
+     "day": 12,
+     "todoList": ["ENG 100D NoteBook PDF on TED"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "February",
      "day": 14,
      "todoList": ["MGT 103 HW on TED"]
-    }
+    },
     
+    {
+     "year": 2017,
+     "month": "February",
+     "day": 19,
+     "todoList": ["ENG 100D HW on TED"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "February",
+     "day": 26,
+     "todoList": ["ENG 100D HW on TED"]
+    },
+    
+    {
+     "year": 2017,
+     "month": "March",
+     "day": 12,
+     "todoList": ["ENG 100D HW on TED"]
+    }
     
 ]
 }
