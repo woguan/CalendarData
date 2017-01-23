@@ -1,8 +1,8 @@
 {
-  "message" : "msg commit",
+  "message" : "msg commit success",
   "committer" : {
     "name" : "wong",
-    "email" : "diegowongguan2@hotmail.com"
+    "email" : "no email"
   },
   "content" : "cGxlYXNlIHdvcms=",
   "sha" : "hahahahaha"
