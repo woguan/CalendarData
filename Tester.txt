@@ -1,1 +1,9 @@
-testing new method
+{
+  "message" : "msg commit",
+  "committer" : {
+    "name" : "wong",
+    "email" : "diegowongguan2@hotmail.com"
+  },
+  "content" : "dGVzdGluZyBuZXcgbWV0aG9k",
+  "sha" : "fb617c9e42866ca24d0ff8e0c2725048f6f9530c"
+}
