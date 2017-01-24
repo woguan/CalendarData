@@ -1,5 +1,5 @@
 {
-  "message" : "msg commit success",
+  "message" : "i changed you",
   "committer" : {
     "name" : "wong",
     "email" : "no email"
