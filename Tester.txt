@@ -37,8 +37,7 @@
       "month" : "January",
       "todoList" : [
         "Presentation for HIEA 153",
-        "Notes",
-        "67"
+        "NOW IT WORKS!"
       ],
       "day" : 31
     },
