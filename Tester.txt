@@ -1,5 +1,100 @@
 {
   "data" : [
-
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "ENG 100D HW on TED"
+      ],
+      "day" : 22
+    },
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "MGT 103 HW on TED"
+      ],
+      "day" : 24
+    },
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "Meeting END 100D at 7:00pm"
+      ],
+      "day" : 25
+    },
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "ENG 100D HW on TED"
+      ],
+      "day" : 29
+    },
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "Presentation for HIEA 153"
+      ],
+      "day" : 31
+    },
+    {
+      "year" : 2017,
+      "month" : "February",
+      "todoList" : [
+        "MGT 103 Midterm"
+      ],
+      "day" : 2
+    },
+    {
+      "year" : 2017,
+      "month" : "February",
+      "todoList" : [
+        "ENG 100D NoteBook PDF on TED"
+      ],
+      "day" : 12
+    },
+    {
+      "year" : 2017,
+      "month" : "February",
+      "todoList" : [
+        "MGT 103 HW on TED"
+      ],
+      "day" : 14
+    },
+    {
+      "year" : 2017,
+      "month" : "February",
+      "todoList" : [
+        "ENG 100D HW on TED"
+      ],
+      "day" : 19
+    },
+    {
+      "year" : 2017,
+      "month" : "February",
+      "todoList" : [
+        "ENG 100D HW on TED"
+      ],
+      "day" : 26
+    },
+    {
+      "year" : 2017,
+      "month" : "March",
+      "todoList" : [
+        "ENG 100D HW on TED"
+      ],
+      "day" : 12
+    },
+    {
+      "year" : 2017,
+      "month" : "January",
+      "todoList" : [
+        "\"Notes\""
+      ],
+      "day" : 30
+    }
   ]
 }
