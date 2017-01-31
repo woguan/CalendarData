@@ -36,17 +36,8 @@
       "year" : 2017,
       "month" : "January",
       "todoList" : [
-        "Hohoho",
-        "Kkk"
-      ],
-      "day" : 30
-    },
-    {
-      "year" : 2017,
-      "month" : "January",
-      "todoList" : [
         "Presentation for HIEA 153",
-        "Kkk"
+        "Notes"
       ],
       "day" : 31
     },
@@ -94,18 +85,9 @@
       "year" : 2017,
       "month" : "March",
       "todoList" : [
-        "ENG 100D HW on TED",
-        "Kkk"
+        "ENG 100D HW on TED"
       ],
       "day" : 12
-    },
-    {
-      "year" : 2017,
-      "month" : "February",
-      "todoList" : [
-        "Kkk"
-      ],
-      "day" : 28
     }
   ]
 }
